@@ -1,9 +1,7 @@
 # Hey, I'm Itzplush 👋
 
-CS student by day, builder by night.
-Finishing my BS Computer Science at STI College (July 2026)
-and spending most of my free time turning real problems
-into actual products.
+DevOps by day, builder by night.
+Currently a DevOps Engineer at PSBank.
 
 ---
 
